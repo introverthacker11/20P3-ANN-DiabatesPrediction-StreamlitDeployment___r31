@@ -57,13 +57,13 @@ streamlit run app.py
 
 diabetes-prediction/
 │
-├── app.py                # Main Streamlit app
-├── diabetes_model.pkl    # Trained ML model
-├── scaler.pkl            # Feature scaler
-├── requirements.txt      # Python dependencies
-├── README.md             # Project documentation
+├── app.py                
+├── diabetes_model.pkl    
+├── scaler.pkl            
+├── requirements.txt      
+├── README.md             
 └── data/
-    └── diabetes.csv      # Dataset
+    └── diabetes.csv     
 
 
 ## 🛠 Technologies Used
